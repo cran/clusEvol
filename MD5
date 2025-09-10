@@ -1,9 +1,10 @@
-60665db9e6325e3ac65fd43b1871179e *DESCRIPTION
+aad0c0a549801308d609e6ab7898384e *DESCRIPTION
 0550f6ae158da25b920fe71c0ebd0a44 *NAMESPACE
 f5a6d11e305f15d8dff3dccdcb4e9162 *R/clusEvol.R
-9af57303507736d5e81d7777f16d16c6 *data/actpas.RData
-899ff227b3d63fec5e613739eda8d3cb *data/pwt1001.RData
-d21ee51e8ce6673757f54d9eded0e4b5 *man/actpas.Rd
-84305660e4106539a8ca77f30b84caa4 *man/clusEvol.Rd
-325ad04944ce4e4c5b4a9f8cdd74f8ce *man/plot.clusEvol.Rd
-c71d3326e0e4041c3ec6ec53bd4a79e4 *man/pwt1001.Rd
+b52aabe9a2757fc86742763db9dafc9b *build/partial.rdb
+70eb5d1f5d35fe51fea0eb30f2301e6a *data/actpas.RData
+e9d53c6f976b4761acfc78fb68f3d355 *data/pwt1001.RData
+6938ba6f5dafde19155dd86fcdfe9365 *man/actpas.Rd
+8bcc26ad0d522258c1b6544e08eae6c8 *man/clusEvol.Rd
+1331d6e275a9413da22f6252731f61ef *man/plot.clusEvol.Rd
+b6b19df23a20b66f5470fcfde044b572 *man/pwt1001.Rd
